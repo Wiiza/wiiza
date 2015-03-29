@@ -4,7 +4,7 @@ body {
   background: #000;
   font: 16px;
   line-height: 1.5;
-  font-family: Monaco, "Bitstream Vera Sans Mono", "Lucida Console", Terminal, monospace;
+  font-family:"Myriad Pro", "Tahoma", Terminal, monospace;
 }
 
 /* General & 'Reset' Stuff */
